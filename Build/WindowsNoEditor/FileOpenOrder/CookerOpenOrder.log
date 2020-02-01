@@ -1,0 +1,385 @@
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Caracter/SKM_Zombie_Skeleton.uasset" 0
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Animations/SKA_Z_Dance.uasset" 1
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Audio/PlayerCharacter/Footsteps/PC_Footsteps_V1.uasset" 2
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Animations/SKA_Z_Run.uasset" 3
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 4
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Blueprints/lambert_cobble.uasset" 5
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Blueprints/Cobble_V1.uasset" 6
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Blueprints/Spline_road.uasset" 7
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Caracter/Test/zombie_for_texture0_3_legs_BaseColor.uasset" 8
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Caracter/Test/legs.uasset" 9
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Caracter/Test/Z_Legs.uasset" 10
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Caracter/Test/zombie_for_texture0_3_arms_BaseColor.uasset" 11
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Caracter/Test/arms.uasset" 12
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Caracter/Test/zombie_for_texture0_3_torso_BaseColor.uasset" 13
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Caracter/Test/torso.uasset" 14
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Caracter/Test/Z_Torso.uasset" 15
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/zombie_for_texture0_3_legs_BaseColor.uasset" 16
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Materials/legs.uasset" 17
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/T_FootPrint_Left.uasset" 18
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Materials/M_LeftFootPrint.uasset" 19
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/T_FootPrint_Right.uasset" 20
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Materials/M_RightFootPrint.uasset" 21
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/T_SmokePuff.uasset" 22
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Materials/M_SmokePuff.uasset" 23
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Audio/PlayerCharacter/Footsteps/PC_Footsteps_V1_01.uasset" 24
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Audio/PlayerCharacter/Footsteps/PC_Footsteps_V1_02.uasset" 25
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Audio/PlayerCharacter/Handsteps/PC_Handsteps_V1_01.uasset" 26
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Audio/PlayerCharacter/Handsteps/PC_Handsteps_V1_02.uasset" 27
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Audio/PlayerCharacter/Handsteps/PC_Handsteps_V1_03.uasset" 28
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Audio/PlayerCharacter/Handsteps/PC_Handsteps_V1_04.uasset" 29
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Audio/PlayerCharacter/Handsteps/PC_Handsteps_V1_05.uasset" 30
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Audio/PlayerCharacter/Handsteps/PC_Handsteps_V1_06.uasset" 31
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/CubeMaterial.uasset" 32
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 33
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/lambert_GraveStones.uasset" 34
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Mod_GraveStone1.uasset" 35
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Mod_GraveStone3.uasset" 36
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/lambert1.uasset" 37
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Mod_Pumpkin4.uasset" 38
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Mod_V1_Fence1.uasset" 39
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Orange.uasset" 40
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/TemplateFloor.uasset" 41
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Blockouts/L_Blockout_Boyd_BuiltData.uasset" 42
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 43
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 44
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 45
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 46
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 47
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 48
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Animations/ThirdPersonRun.uasset" 49
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 50
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 51
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 52
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 53
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 54
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 55
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 56
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 57
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 58
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 59
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 60
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 61
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 62
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 63
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 64
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 65
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 66
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 67
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Materials/M_HeadTorso.uasset" 68
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Materials/M_Legs.uasset" 69
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Materials/M_Torso.uasset" 70
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Materials/M_TorsoLegs.uasset" 71
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 72
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 73
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 74
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 75
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPerson/Meshes/RampMaterial.uasset" 76
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 77
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 78
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 79
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 80
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 81
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPersonBP/Test.uasset" 82
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 83
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/zombie_for_texture0_3_arms_BaseColor.uasset" 84
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Materials/arms.uasset" 85
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/zombie_for_texture0_3_head_BaseColor.uasset" 86
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Materials/head.uasset" 87
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/zombie_for_texture0_3_torso_BaseColor.uasset" 88
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Materials/torso.uasset" 89
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Caracter/SKM_Zombie_PhysicsAsset.uasset" 90
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Caracter/SKM_Zombie.uasset" 91
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 92
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/UI/Widgets/W_WinScreen.uasset" 93
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.uasset" 94
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPersonBP/Blueprints/BP_PlayerController.uasset" 95
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPersonBP/Blueprints/MazeGameMode.uasset" 96
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 97
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPersonBP/UIUX/W_TestWidget.uasset" 98
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 99
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 100
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 101
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 102
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 103
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 104
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 105
+"../../../Engine/Content/BasicShapes/Cone.uasset" 106
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 107
+"../../../Engine/Content/BasicShapes/Plane.uasset" 108
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 109
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 110
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 111
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 112
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 113
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 114
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 115
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 116
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 117
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 118
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 119
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 120
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 121
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 122
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 123
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 124
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 125
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 126
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 127
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 128
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 129
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 130
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 131
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 132
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 133
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 134
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 135
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 136
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 137
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 138
+"../../../Engine/Content/EditorResources/S_Note.uasset" 139
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 140
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 141
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 142
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 143
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 144
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 145
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 146
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 147
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 148
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 149
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 150
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 151
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 152
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 153
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 154
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 155
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 156
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 157
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 158
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 159
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 160
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 161
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 162
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 163
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 164
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 165
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 166
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 167
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 168
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 169
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 170
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 171
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 172
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 173
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 174
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 175
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 176
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 177
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 178
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 179
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 180
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 181
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 182
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 183
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 184
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 185
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 186
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 187
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 188
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 189
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 190
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 191
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 192
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 193
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 194
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 195
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 196
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 197
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 198
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 199
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 200
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 201
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 202
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 203
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 204
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 205
+"../../../Engine/Content/EngineResources/Black.uasset" 206
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 207
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 208
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 209
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 210
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 211
+"../../../Engine/Content/EngineSounds/Master.uasset" 212
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 213
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 214
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 215
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 216
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 217
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 218
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 219
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 220
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 221
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 222
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 223
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 224
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 225
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 226
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 227
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 228
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 229
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 230
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 231
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 232
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 233
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 234
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 235
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 236
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 237
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 238
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 239
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 240
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 241
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 242
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 243
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 244
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 245
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 246
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 247
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 248
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 249
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 250
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 251
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 252
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 253
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 254
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 255
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 256
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 257
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 258
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 259
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 260
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 261
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 262
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/UI/Map/RT_Map.uasset" 263
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/UI/Map/BP_Map.uasset" 264
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Blockout/houseRoof01.uasset" 265
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Blockout/houseStone01.uasset" 266
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Blockout/houseWood01.uasset" 267
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Blockout/house01.uasset" 268
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Blockout/house02.uasset" 269
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/UI/Map/RT_Map_Mat.uasset" 270
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/UI/Map/Wdgt_Map.uasset" 271
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Blockouts/L_Blockout_Boyd.umap" 272
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 273
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 274
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 275
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 276
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 277
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 278
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 279
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 280
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 281
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 282
+"../../../Engine/Content/BasicShapes/Cube.uasset" 283
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Blockout/bush02.uasset" 284
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Blockout/bushWood02.uasset" 285
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Blockout/bush01.uasset" 286
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Blockout/rock01.uasset" 287
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Blockout/stone01.uasset" 288
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Blockout/stone02.uasset" 289
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Blockout/tree_01.uasset" 290
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Blockout/treeWood_02.uasset" 291
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Blockout/tree01.uasset" 292
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Blockouts/L_Blockout_Coen.umap" 293
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/1M_Cube.uasset" 294
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/OtherPrototypes/BP_Door.uasset" 295
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/OtherPrototypes/BP_PressurePlate_Door.uasset" 296
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Blockouts/L_Blockout_Timo_BuiltData.uasset" 297
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Blockouts/L_Blockout_Timo.umap" 298
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Audio/PlayerCharacter/Handsteps/PC_Handsteps_V1.uasset" 299
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Animations/SKA_Z_Crawl.uasset" 300
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Materials/M_HeadLegs.uasset" 301
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPersonBP/Blueprints/Characters/BP_HeadLegs.uasset" 302
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Materials/M_Invis.uasset" 303
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPersonBP/Blueprints/Characters/BP_HeadTorso.uasset" 304
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/UI/Widgets/W_MainMenu.uasset" 305
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/UI/Widgets/Wdgt_PauseMenu.uasset" 306
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPersonBP/Blueprints/Characters/BP_Torso.uasset" 307
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPersonBP/Blueprints/Characters/BP_TorsoLegs.uasset" 308
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Mannequin/Character/Materials/M_Head.uasset" 309
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Caracter/Test/zombie_for_texture0_3_head_BaseColor.uasset" 310
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Caracter/Test/head.uasset" 311
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Caracter/Test/Z_Head.uasset" 312
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPersonBP/Blueprints/Characters/BP_Head.uasset" 313
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/ThirdPersonBP/Blueprints/Characters/BP_Legs.uasset" 314
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Blockouts/L_Blockout_ZombieParts_BuiltData.uasset" 315
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Blue.uasset" 316
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Brown.uasset" 317
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Mod_GraveCross.uasset" 318
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Mod_GraveStone2.uasset" 319
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Mod_GraveStone4.uasset" 320
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Mod_GraveStone5.uasset" 321
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Mod_pumpkin1.uasset" 322
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Mod_pumpkin2.uasset" 323
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Mod_Pumpkin3.uasset" 324
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Mod_Pumpkin5.uasset" 325
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/Mod_V1_Fence2.uasset" 326
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Blockouts/L_Blockout_ZombieParts.umap" 327
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Blockouts/L_Gym.umap" 328
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/UI/GM_Menu.uasset" 329
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 330
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 331
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 332
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_2_Blue_BaseColor.uasset" 333
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_2_Blue_OcclusionRoughnessMetallic.uasset" 334
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/M_House2Master_Roof.uasset" 335
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_2_lambert1_BaseColor.uasset" 336
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_2_lambert1_OcclusionRoughnessMetallic.uasset" 337
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/M_House2Master_Wall.uasset" 338
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_2_Orange_BaseColor.uasset" 339
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_2_Orange_OcclusionRoughnessMetallic.uasset" 340
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/M_House2Master_Window.uasset" 341
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_2_Brown_BaseColor.uasset" 342
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_2_Brown_Normal.uasset" 343
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_2_Brown_OcclusionRoughnessMetallic.uasset" 344
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/M_House2Master_Wood.uasset" 345
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/House_2.uasset" 346
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_3_Blue_BaseColor.uasset" 347
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_3_Blue_OcclusionRoughnessMetallic.uasset" 348
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/M_House3_Roof_Inst.uasset" 349
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_3_lambert1_BaseColor.uasset" 350
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_3_lambert1_OcclusionRoughnessMetallic.uasset" 351
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/M_House3_Wall_Inst.uasset" 352
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_3_Orange_BaseColor.uasset" 353
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_3_Orange_OcclusionRoughnessMetallic.uasset" 354
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/M_House3_Window_Inst.uasset" 355
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_3_Brown_BaseColor.uasset" 356
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_3_Brown_Normal.uasset" 357
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_3_Brown_OcclusionRoughnessMetallic.uasset" 358
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/M_House3_Wood_Inst.uasset" 359
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/House_3.uasset" 360
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_4_Blue_BaseColor.uasset" 361
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_4_Blue_OcclusionRoughnessMetallic.uasset" 362
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/M_House4_Roof_Inst.uasset" 363
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_4_lambert1_BaseColor.uasset" 364
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_4_lambert1_OcclusionRoughnessMetallic.uasset" 365
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/M_House4_Wall_Inst.uasset" 366
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_4_Orange_BaseColor.uasset" 367
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_4_Orange_OcclusionRoughnessMetallic.uasset" 368
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/M_House4_Window_Inst.uasset" 369
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_4_Brown_BaseColor.uasset" 370
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_4_Brown_Normal.uasset" 371
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Art/Textures/Houses/House_4_Brown_OcclusionRoughnessMetallic.uasset" 372
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/M_House4_Wood_Inst.uasset" 373
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Geometry/Meshes/House_4.uasset" 374
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Blockouts/L_MainMenu_Sheila.umap" 375
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Blockouts/L_MainMenu_Sven.umap" 376
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Final/L_Art.umap" 377
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Final/L_Audio.umap" 378
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Final/L_Gameplay.umap" 379
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Final/L_Geometry.umap" 380
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Final/L_Lighting_BuiltData.uasset" 381
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Final/L_Lighting.umap" 382
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/Levels/Final/L_Persistent.umap" 383
+"../../../../../../Users/Unfortunate Person/Documents/GitHub/IwantToSleep/Content/UI/Map/L_BlueprintExample.umap" 384
